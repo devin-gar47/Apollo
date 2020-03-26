@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>927043524833-ihqi3arj1nrp6ifkvk0b5gn57tpl5eud.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.927043524833-ihqi3arj1nrp6ifkvk0b5gn57tpl5eud</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAyvWJnlppyuNqtwQC7n2K1I249wewow9o</string>
+	<key>GCM_SENDER_ID</key>
+	<string>927043524833</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.devin.garrettD-Final-Project</string>
+	<key>PROJECT_ID</key>
+	<string>login-a321d</string>
+	<key>STORAGE_BUCKET</key>
+	<string>login-a321d.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:927043524833:ios:5b67fcfbb82c1e5ced3fa0</string>
+	<key>DATABASE_URL</key>
+	<string>https://login-a321d.firebaseio.com</string>
+</dict>
+</plist>
